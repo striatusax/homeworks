@@ -1,3 +1,3 @@
 # homeworks
 
-use java 11
+java 17
