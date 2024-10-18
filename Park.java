@@ -10,12 +10,12 @@ public class Park {
 
     public class Attraction {
         private String name;
-        private String OpenTime;
+        private String openTime;
         private double cost;
 
         public Attraction(String name, String openTime, double cost) {
             this.name = name;
-            OpenTime = openTime;
+            this.openTime = openTime;
             this.cost = cost;
         }
     }
